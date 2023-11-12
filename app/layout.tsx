@@ -5,9 +5,9 @@ import { theme } from '@/lib/theme';
 import '@mantine/core/styles.css';
 
 export const metadata: Metadata = {
-  title: 'Mantine V7 Nextjs 13 with TSS',
+  title: 'Mantine V7 Nextjs 14 with TSS',
   description:
-    'This repo can be used as a template for using Mantine V7 in a Nextjs 13 project with TSS for styling.',
+    'This repo can be used as a template for using Mantine V7 in a Nextjs 14 project with TSS for styling.',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

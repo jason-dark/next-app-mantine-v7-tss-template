@@ -21,7 +21,7 @@ export const HomePage = () => {
           Mantine V7 using TSS for styling
         </Title>
         <Text>
-          This repo can be used as a template for using Mantine V7 in a Nextjs 13 project with{' '}
+          This repo can be used as a template for using Mantine V7 in a Nextjs 14 project with{' '}
           <Anchor href='https://docs.tss-react.dev/api/tss-usestyles' target='_blank'>
             TSS
           </Anchor>{' '}
