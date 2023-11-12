@@ -1,3 +1,7 @@
+## Demo site
+
+👀 View this repo deployed [here](https://next-app-mantine-v7-tss-template.netlify.app).
+
 ## Getting Started
 
 Install deps and run the development server:
@@ -8,7 +12,7 @@ yarn && yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-### About
+## About
 
 This template is a minimal demonstration of [Mantine V7](https://mantine.dev/about/) in a [Nextjs 14 app dir](https://nextjs.org/docs/app) project, using [TSS](https://docs.tss-react.dev/api/tss-usestyles) for styling. This enables you to use Mantine V7 with CSS-in-JS.
 
