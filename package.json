@@ -9,11 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@emotion/react": "^11.11.1",
-    "@mantine/core": "^7.2.1",
-    "@mantine/hooks": "^7.2.1",
-    "@mantine/vanilla-extract": "^7.2.1",
-    "next": "^14.0.2",
+    "@emotion/react": "^11.11.3",
+    "@mantine/core": "^7.4.1",
+    "@mantine/hooks": "^7.4.1",
+    "@mantine/vanilla-extract": "^7.4.1",
+    "next": "^14.0.4",
     "react": "^18",
     "react-dom": "^18",
     "tss-react": "^4.9.3"
