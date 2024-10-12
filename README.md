@@ -1,3 +1,6 @@
+> ⚠️ **Project Abandoned October 2024**: Mantine no longer links to this template from its [getting started](https://mantine.dev/getting-started/#community-templates) page. I will leave this repo up to avoid dead links from elsewhere, but note that I will not be maintaining this template going forward.
+
+
 ## Demo site
 
 👀 View this repo deployed [here](https://next-app-mantine-v7-tss-template.netlify.app).
